@@ -1,2 +1,3 @@
 # ASDRP-City-QOL
 This is my first project with ASDRP in the Data Science Field. In this project we made a model to predict the quality of life in different cities in the USA. We had 11 different features that we used including the high school graduation rate, the air quality, and the average income. 
+We first started this project by getting data from 80 cities and then convering it into numerical values. After this we looked MultiClass Classification using Random Forest on Sckit-Learn Library Tutorials. We understood the code and applied it to the data we have, predicting the QOL in different cities.
